@@ -22,12 +22,9 @@ I'm a passionate JavaScript developer with a knack for creating awesome web and 
 - Experimenting with the power of **Next.js** and server-side rendering.
 - Scaling backend services with **Node.js** and **MongoDB**.
 
-## 🌱 Learning:
-- Exploring more advanced **Firebase** features.
-- Enhancing performance with **Next.js** optimizations.
 
 ## 📫 How to Reach Me:
-- Shoot me a message on GitHub or connect with me on LinkedIn.
+- You don't need to. I am a typical programmer lacking social skills.. 😆
 
 ---
 
